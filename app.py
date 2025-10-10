@@ -151,7 +151,7 @@ else:
     # Predict immediately after upload (no extra button needed)
     with st.spinner("Loading model and analyzing image..."):
         try:
-            model_path = Path(__file__).with_name("waste_classifier.h5")
+            model_path = Path(__file__).with_name("waste_classifier_v2.h5")
             model = load_cached_model(model_path)
         except FileNotFoundError as fnf:
             st.error(str(fnf))

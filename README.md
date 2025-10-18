@@ -28,7 +28,7 @@ This project addresses the problem of improper waste segregation in urban areas 
 ## Evaluation
 
 - Test accuracy: 88.47%
-- Detailed metrics include precision, recall, f1-score, and confusion matrix available in `confusion_matrix.jpg`.
+- Detailed metrics include precision, recall, f1-score, and confusion matrix available in `confusion_matrix.jpg` and 'classification_report.csv'.
 
 ## System Logic
 

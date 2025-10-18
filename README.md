@@ -44,6 +44,10 @@ This project addresses the problem of improper waste segregation in urban areas 
 - [Live app here](https://iadai201-1000197-aarav-agarwal.streamlit.app/)
 - Screenshots included within this repo.
 
+<img width="784" height="370" alt="image" src="https://github.com/user-attachments/assets/de7e574c-119d-43d0-a28f-4ffe1cd79c30" />
+<img width="764" height="1010" alt="image" src="https://github.com/user-attachments/assets/32b33f58-2b69-4c11-ba7d-ae1c59a99e0c" />
+<img width="792" height="1006" alt="image" src="https://github.com/user-attachments/assets/c012a625-d400-4291-826a-62da6c9f4bec" />
+
 ## Installation and Usage
 1. Clone the repo
 2. Install dependencies:

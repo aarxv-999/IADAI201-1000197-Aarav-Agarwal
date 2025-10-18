@@ -8,7 +8,7 @@ from PIL import Image
 # Load model once
 @st.cache_resource
 def load_waste_model():
-    model = load_model('models/waste_classifier_mobilenet.h5')
+    model = load_model('waste_classifier_mobilenet.h5')
     return model
 
 model = load_waste_model()
@@ -56,3 +56,4 @@ if uploaded is not None:
     st.write(f"**Category:** {category.capitalize()}")
     st.write(f"**Confidence:** {confidence:.2f}%")
     st.markdown(f"<div style='width:120px;height:40px;background:{bin_color};border-radius:10px;text-align:center;line-height:40px;color:white'><b>{bin_color.upper()} BIN</b></div>", unsafe_allow_html=True)
+

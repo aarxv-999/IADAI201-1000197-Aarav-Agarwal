@@ -1,8 +1,7 @@
 streamlit==1.50.0
 tensorflow==2.20.0
 tensorboard~=2.20.0
-torch==2.12.1
-torchvision==0.15.2
+torch==2.9.0
 ultralytics==8.3.217
 numpy==2.2.6
 pandas==2.3.3
